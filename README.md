@@ -1,5 +1,6 @@
 # numpy-tutorial
-# 安装
+# 安装 运行
 ```
 pip install numpy scipy matplotlib ipython jupyter pandas sympy nose
+jupyter notebook
 ```
